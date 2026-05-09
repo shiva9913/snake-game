@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Snake Game",
+    "slug": "snake-game",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
