@@ -18,3 +18,8 @@ Shiva Singh
 
 GitHub:
 https://github.com/shiva9913
+
+## 📸 Screenshot
+![Snake Game](Screenshot_20260509_235322.jpg)
+
+![Snake Game](Screenshot_20260509_235427.jpg)
